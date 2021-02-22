@@ -1,20 +1,10 @@
 import 'package:flutter/material.dart';
 
+import 'Task.dart';
+
 class Todo extends StatefulWidget {
   @override
   State createState() => TodoState();
-}
-
-class Task {
-  String task;
-  bool done;
-
-  Task(this.task, this.done);
-
-  @override
-  String toString() {
-    return '{ ${this.task}, ${this.done} }';
-  }
 }
 
 class TodoState extends State<Todo> {
