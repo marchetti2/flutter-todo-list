@@ -46,7 +46,7 @@ My first [Flutter](https://flutter.dev/docs) project. This is a todo-list with s
 **Clone the project and access the folder:**
 
 ```bash
-$ git clone https://github.com/marchetti2/flutter_todo_list.git && cd flutter_todo_list
+$ git clone https://github.com/marchetti2/flutter-todo-list.git && cd flutter-todo-list
 ```
 
 **update:**
